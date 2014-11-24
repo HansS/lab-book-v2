@@ -9,3 +9,13 @@ The goal of this week is to get the students thinking about how software can bri
 
 Non-technical topics include: confidence, public speaking, punctuality, creative thinking, constructive criticism, working in groups/pairs.
 
+###Module Outline
+
+| Module                      | Topics                      |
+|-----------------------------|-----------------------------|
+| 1-2                         | Who are SW Engineers?       |
+| 3-4                         | Paper Prototypes            |
+| 5-7                         | Digital Prototypes          |
+| 8                           | Protoype Presentation       |
+| 9-10                        | Intro to Search Engines     |
+

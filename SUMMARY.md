@@ -14,4 +14,5 @@
        * [Module 4-5](unit_1_discovery/module_4-5.md)
        * [Module 6](unit_1_discovery/module_6)
        * [Module 7-8](unit_1_discovery/module_7-8.md)
+       * [Module 9-10](wk2_mod910.md)
 
