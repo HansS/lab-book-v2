@@ -22,7 +22,9 @@ The students will be able to:
 - Examine moving.sb.
 - Discuss answers to questions.
 - Complete baseball.sb.
-Teaching/Learning Strategies:
+
+###Teaching/Learning Strategies
+
 - Journal Entry: Briefly describe how you would graph in your Algebra class (The x-y coordinate plane, etc) o Have students work individually and then share with their elbow partners.
 - moving.sb
     - Circulate the room and help students answer the questions.

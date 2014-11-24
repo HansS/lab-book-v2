@@ -15,4 +15,7 @@
        * [Module 6](unit_1_discovery/module_6)
        * [Module 7-8](unit_1_discovery/module_7-8.md)
        * [Module 9-10](wk2_mod910.md)
+   * [Week 3](unit_1_discovery/week_3.md)
+       * [Module 1-2](unit_1_discovery/wk_3_module_1-2.md)
+       * [Module 3](unit_1_discovery/wk3_module_3.md)
 
