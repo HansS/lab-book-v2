@@ -9,7 +9,7 @@
        * [Module 8](unit_1_discovery/module_8.md)
        * [Module 9-10](unit_1_discovery/module_9-10.md)
    * [Week 2](unit_1_discovery/week_2.md)
-       * [Module 1-2](unit_1_discovery/module_1-2)
-       * [Module 3](unit_1_discovery/module_3)
+       * [Module 1-2](wk2_module_1-2.md)
+       * [Module 3](unit_1_discovery/module_3.md)
        * [Module 4-5](unit_1_discovery/module_4-5)
 
