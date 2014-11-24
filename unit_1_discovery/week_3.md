@@ -12,8 +12,8 @@ Non-technical topics include:
 
 | Module                      | Topics                      |
 |-----------------------------|-----------------------------|
-| 1-2                         | What is a computer program? |
-| 3                           | Intro to Scratch            |
+| 1-2                         | Scratch Events  |
+| 3                           | Broascasting            |
 | 4-5                         | Scratch Practice            |
 | 6                           | Sprite Dialog               |
 | 7-8                         | Move Sprites                |

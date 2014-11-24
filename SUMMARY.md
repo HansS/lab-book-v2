@@ -18,4 +18,7 @@
    * [Week 3](unit_1_discovery/week_3.md)
        * [Module 1-2](unit_1_discovery/wk_3_module_1-2.md)
        * [Module 3](unit_1_discovery/wk3_module_3.md)
+       * [Module 4-7](unit_1_discovery/wk3_module_6-9.md)
+   * [Problem Solving](unit_1_discovery/problem_solving)
+       * [Module 1-2](unit_1_discovery/ps_module_1-2.md)
 

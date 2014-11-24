@@ -167,4 +167,17 @@ Finish a story about what the cat did over summer. Answer questions 1, 2, and 6 
 These characters should show and hide.
 8. Feel free to add in additional scenes.
 
+---
+#### Summer Story Project Sample Rubric
 
+Name: _______________________
+
+Do you have?
+
+1. Add in the second scene (basketball)
+￼
+1. Add in the third scene (movies)
+￼
+1. Add in additional characters into each scene that show and hide
+￼
+1. (Extra Credit) Add in additional scenes
