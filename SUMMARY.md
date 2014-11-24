@@ -12,4 +12,6 @@
        * [Module 1-2](wk2_module_1-2.md)
        * [Module 3](unit_1_discovery/module_3.md)
        * [Module 4-5](unit_1_discovery/module_4-5.md)
+       * [Module 6](unit_1_discovery/module_6)
+       * [Module 7-8](unit_1_discovery/module_7-8.md)
 
