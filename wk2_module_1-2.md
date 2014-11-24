@@ -84,3 +84,7 @@ You may begin now!!
 2. Draw a picture of a stick figure father, mother and daughter.
 3. Draw a picture of a mustang next to the house.
 4. Draw a picture of the sun in the sky.
+
+
+###Source
+Exploring Computer Science—Unit 4: Introduction to Programming

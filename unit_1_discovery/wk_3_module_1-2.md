@@ -69,3 +69,6 @@ you are surfing the web, how does the computer know what page to go to next?
 1. Use the “say _ for _ sec” to output what the letter stands for (i.e. “E is for Elephant”)
 1. Sprites all turn to letters when the “when green flag clicked”
 1. (EX) Use a microphone to record sounds for all the letters and play the sound when the letter is clicked or typed (i.e. “E is for Elephant”)
+
+###Source
+Exploring Computer Science—Unit 4: Introduction to Programming

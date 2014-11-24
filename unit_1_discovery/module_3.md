@@ -82,3 +82,5 @@ Do you have?
 5. Use the “forever” block
 6. (XC) Have your name reinitialize itself when the green flag is clicked. In other words, all the letters will start off in the right location facing the correct way.
 
+###Source
+Exploring Computer Science—Unit 4: Introduction to Programming

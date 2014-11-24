@@ -27,3 +27,4 @@ The student will be able to:
 
 **Lecture:** What is an app? What problems are solved with technology/apps? What are some things in your life or someone you know that is annoying/inconvenient? What are some solutions to issues that could be improved even more?
 ###Resources
+
