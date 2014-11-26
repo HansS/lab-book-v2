@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Unit 1: Discovery](unit_1_discovery/README)
+* [Unit 1: Discovery](unit_1_discovery/README.md)
    * [Week 1](unit_1_discovery/week_1.md)
        * [Module 1-2](unit_1_discovery/module_1-2.md)
        * [Module 3-4](unit_1_discovery/module_3-4.md)
@@ -19,7 +19,17 @@
        * [Module 1-2](unit_1_discovery/wk_3_module_1-2.md)
        * [Module 3](unit_1_discovery/wk3_module_3.md)
        * [Module 4-7](unit_1_discovery/wk3_module_6-9.md)
-   * [Problem Solving](unit_1_discovery/problem_solving)
+   * [Problem Solving](unit_1_discovery/problem_solving.md)
        * [Module 1-2](unit_1_discovery/ps_module_1-2.md)
        * [Module 3](unit_1_discovery/ps_module_3.md)
+       * [Module 4-6](unit_1_discovery/ps_module_4-6.md)
+       * [Module 7-9](unit_1_discovery/ps_module_7-9.md)
+* [Unit 2: Web Design - HTML/CSS](unit_2_web_design_-_htmlcss/README.md)
+   * [Week 1](unit_2_web_design_-_htmlcss/u2_week_1.md)
+       * [Module 1-2](unit_2_web_design_-_htmlcss/wb_module_1-2.md)
+       * [Module 3](wbd_module_3.md)
+       * [Module 4-5](unit_2_web_design_-_htmlcss/wb_module_4-5.md)
+       * [u2w1 Module 6-7](unit_2_web_design_-_htmlcss/u2w1_module_6-7.md)
+   * [wd Week 2](unit_2_web_design_-_htmlcss/wd_week_2)
+   * [wb Week 3](unit_2_web_design_-_htmlcss/wb_week_3)
 

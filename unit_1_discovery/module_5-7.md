@@ -6,7 +6,7 @@ How do you turn paper prototypes into digital prototypes? What is an MVP and how
 ###Objectives
 The student will be able to:
 - Use a digital prototyping tool
-- Translate paper prototypes into
+- Translate paper prototypes into digital PT
 - Think creatively about how to use technology to improve their lives and the lives of others.
 
 ###Outline of Lesson
@@ -29,7 +29,9 @@ The student will be able to:
 
 ###Teaching/Learning Strategies:
 
-**Lecture:** Get started with Basalmic/Sketch
+**Lecture: ** What is an MVP. How do you decide what features to cut? The importance of leaving something in a 'finished state' for their portfolios.
+
+**Lecture:** Get started with Basalmic/Sketch.
 
 **Lecture: ** More Basalmic/Sketch.
 

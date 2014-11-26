@@ -13,9 +13,12 @@ Non-technical topics include: confidence, public speaking, punctuality, creative
 
 | Module                      | Topics                      |
 |-----------------------------|-----------------------------|
-| 1-2                         | Who are SW Engineers?       |
+| 1-2                         | Who are SW Engineers?  WHat is an app?      |
 | 3-4                         | Paper Prototypes            |
 | 5-7                         | Digital Prototypes          |
-| 8                           | Protoype Presentation       |
-| 9-10                        | Intro to Search Engines     |
+| 8                           | Protoype Presentation + UI Components       |
+| 9-10                        | Intro to Searching and website quality     |
+
+
+
 
