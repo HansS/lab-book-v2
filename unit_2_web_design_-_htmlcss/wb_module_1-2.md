@@ -70,3 +70,5 @@ HTML/CSS Interactive Presentation:
 http://www.codecademy.com/en/skills/make-a-website/topics/html-elements
 //TODO: Link local copy
 
+###Source
+Exploring Computer Science—Unit 3: Web Design

@@ -1,7 +1,7 @@
-# Week 1: Intro HTML/CSS
+# Week 2: CSS + Layouts
 
 ### Goals and Objectives
-The basics of html and css are introduced as a method for describing features of web pages that students can use to design and develop web pages based on their own culture, interests and unique experiences.
+
 
 Week one covers the following topics:
 
@@ -13,13 +13,12 @@ Non-technical topics include:
 
 | Module                      | Topics                      |
 |-----------------------------|-----------------------------|
-| 1-2                         | HTML + Text Editor              |
-| 3                           | HTML Cont                |
+| 1-2                         | Intro to Layout Styles              |
+| 3-5                           | Design Practice                |
 | 4-5                         | Image Editing           |
 | 6-7                           | HTML practice               |
 | 8-9                         | Intro to CSS                |
 | 10                        | CSS practice         |
 
 ###Portfolio Project
-All about me photojournal.
 

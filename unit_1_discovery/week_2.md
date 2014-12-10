@@ -2,11 +2,11 @@
 
 ### Goals and Objectives
 
-Week two covers the following topics:
+Week two covers the following topics: programming logic, using the Scratch programming language, building from a prototype
 
-The goal of this week is to
+The goal of this week is for the students to start thinking programmatically, solve problems creatively using programming logic and creating from a prototype.
 
-Non-technical topics include:
+Non-technical topics include: creative problem-solving, logic, story-telling
 
 ###Module Outline
 
