@@ -22,13 +22,14 @@ The student will be able to:
 
 ###Teaching/Learning Strategies:
 - Use bootstrap documentation to discuss major UI components and their use-cases.
+    - Compare with the UI components available in their prototyping application
 - Dissect a website with the class and identify the different components.
+- Use Anki flashcards to memorize the names and uses of different components
 
 ###Resources:
 - http://uxchecklist.github.io/
 - https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0
 
 
-###Source
-Exploring Computer Science—Unit 3: Web Design
+
 

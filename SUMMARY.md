@@ -44,6 +44,7 @@
    * [u2 Week 3](unit_2_web_design_-_htmlcss/wb_week_3.md)
        * [u2w3 Daily](unit_2_web_design_-_htmlcss/u2w3_daily.md)
        * [u2w3 Module 1](unit_2_web_design_-_htmlcss/u2w3_module_1.md)
+       * [u2w3 Module 2-3](unit_2_web_design_-_htmlcss/u2w4_module_2-3.md)
    * [u2 Week 4](unit_2_web_design_-_htmlcss/u2_week_4.md)
        * [u2w4 Daily](unit_2_web_design_-_htmlcss/u2w4_daily.md)
 * [Unit 3: JavaScript](unit_3_javascript/README.md)
