@@ -15,7 +15,7 @@ The student will be able to:
 
 **Activity:** //TBD
 
-**Lecture/Discussion:** What is an app?  (30min)
+**Lecture/Discussion:** What is an app? (30min)
 
 **Activity:** Create a solution to one of the above problems (or a completely new one) with a small group using technology. Get instructor feedback. (30min)
 
@@ -27,7 +27,7 @@ The student will be able to:
 ###Teaching/Learning Strategies
 **Lecture:** Who are software engineers? What do they do? Who do they help? What is a typical day in the life of a SWE? What are some exciting things that software engineers are doing?
 
-**Lecture:** What is an app? What problems are solved with technology/apps? What are some things in your life or someone you know that is annoying/inconvenient? What are some solutions to issues that could be improved even more? What are some cool apps solving interesting problems? What are some problems in your community that you think could be solved by technology
+**Lecture:** What is an app? What problems are solved with technology/apps? What are some things in your life or someone you know that is annoying/inconvenient? What are some solutions to issues that could be improved even more? What are some cool apps solving interesting problems? What are some problems in your community that you think could be solved by technology.
 
 ###Resources
 Solution Worksheet

@@ -38,9 +38,10 @@ The student will be able to:
 
 ###Teaching/Learning Strategies:
 
-- Journal Entry: List at least three ways in which you currently use the internet. o Have students share their responses with their elbow partner.
+- Journal Entry: List at least three ways in which you currently use the internet.
+    - Have students share their responses with their elbow partner.
 - Have student groups complete an internet scavenger hunt.
-o A sample is provided, but you may want to create your own that is more specific to the interests of your
+    - A sample is provided, but you may want to create your own that is more specific to the interests of your
 students or have the groups create their own and exchange with another group.
 - Other resources for finding information
     - In discussing the results of the scavenger hunt have students identify at least three resources other than search engines that they use to find information on the internet along with advantages (or disadvantages) over a general search engine.

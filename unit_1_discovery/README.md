@@ -14,12 +14,13 @@
 ####Week 1
 | Module                      | Topics                      |
 |-----------------------------|-----------------------------|
-| 1-2                         | Who are SW Engineers?  WHat is an app?      |
+| 1-2                         | Who are SW Engineers?  What is an app?      |
 | 3-4                         | Paper Prototypes            |
 | 5-7                         | Digital Prototypes          |
 | 8                           | Protoype Presentation + UI Components       |
 | 9-10                        | Intro to Searching and website quality     |
 
+**Project:** Digital Prototype
 ####Week 2
 
 | Module                      | Topics                      |
@@ -30,6 +31,8 @@
 | 6                           | Sprite Dialog               |
 | 7-8                         | Move Sprites                |
 | 9-10                        | Prototype + Scratch         |
+
+**Project:** Scratch
 
 ####Week 3
 

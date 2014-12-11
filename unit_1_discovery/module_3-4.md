@@ -28,9 +28,13 @@ The student will be able to:
 ###Teaching/Learning Strategies:
 **Lecture:** What is UI/UX? What is a user story?
 
-**Lecture:** How do you take an idea and make it an app prototype? How do you know that your idea is realistic? How do you put information into your application (manually, find a resource, crowdsource). What device is your app for (mobile, tablet, desktop, etc)? What is an MVP?
+**Lecture:** Why was the internet first created? What are websites used for now? What is the internet?How do you take an idea and make it an app prototype? How do you know that your idea is realistic? How do you put information into your application (manually, find a resource, crowdsource). What device is your app for (mobile, tablet, desktop, etc)? What is an MVP?
 
 ###Resources
+UI Fundamentals:
+http://blog.teamtreehouse.com/10-user-interface-design-fundamentals
+http://www.smashingmagazine.com/2008/12/15/10-useful-techniques-to-improve-your-user-interface-designs/
+
 User Story Worksheet
 Prototyping Worksheet
 

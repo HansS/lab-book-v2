@@ -1,27 +1,16 @@
 # u2w2 Module 1-2
 
 ###Topic Description
-In this lesson a variety of page layout styles are introduced.
+In this lesson CSS fundamentals will be reviewed
 
 ###Objectives
 The student will be able to:
-- Use table, row, and column tagging in an html page.
-- Add css styling to an html table.
-- Use ordered and unordered list tagging in an html page.
-- Add css styling to an html list.
-- Use grid elements in css div placement.
-- Add a menu to an html page.
-- Create a web page that includes layout styles.
+- Use basic css declarations, selectors and positioning
 
 ###Outline of the Lesson:
-- Explanation of how to create an html table (15 minutes)
-- Examples of data that lends itself to being presented in a table (5 minutes)
-- Explanation of how to create html ordered and unordered lists and how to add styling to list elements.
-(15 minutes)
-- Examples of data that lends itself to being presented in a list. (5 minutes)
-- Preliminary css positioning and opacity exercise (15 minutes)
-- Explanation of how to create a menu (15 minutes)
-- Creation of a web page that includes layout styles (40 minutes)
+- Review CSS from last week
+
+
 ###Student Activities:
 - Participate in the discussion of creating an html table.
 - View examples of data that lends itself to being presented in a table.

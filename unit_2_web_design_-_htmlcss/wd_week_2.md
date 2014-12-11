@@ -13,12 +13,10 @@ Non-technical topics include:
 
 | Module                      | Topics                      |
 |-----------------------------|-----------------------------|
-| 1-2                         | Intro to Layout Styles              |
-| 3-5                           | Design Practice                |
-| 4-5                         | Image Editing           |
-| 6-7                           | HTML practice               |
-| 8-9                         | Intro to CSS                |
-| 10                        | CSS practice         |
+| 1-2                         | CSS Review              |
+| 3-4                           | Intro to Layout Styles         |
+| 5-7                         | Design Practice                  |
+| 8-10                           | TBD
 
 ###Portfolio Project
 

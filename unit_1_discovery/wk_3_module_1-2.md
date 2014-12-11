@@ -55,7 +55,7 @@ you are surfing the web, how does the computer know what page to go to next?
 ###Resources
 - alphabet learning.sb
 - Alphabet Sample Rubric
--
+
 ###Materials
 
 #### Alphabet Sample Rubric

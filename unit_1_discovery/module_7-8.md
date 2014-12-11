@@ -25,7 +25,8 @@ The students will be able to:
 
 ###Teaching/Learning Strategies
 
-- Journal Entry: Briefly describe how you would graph in your Algebra class (The x-y coordinate plane, etc) o Have students work individually and then share with their elbow partners.
+- Journal Entry: Briefly describe how you would graph in your Algebra class (The x-y coordinate plane, etc)
+    - Have students work individually and then share with their elbow partners.
 - moving.sb
     - Circulate the room and help students answer the questions.
 - Discussion of answers to questions
